@@ -3,6 +3,7 @@ module github.com/telexy324/grpc-resolver
 go 1.14
 
 require (
+	github.com/etcd-io/etcd v3.3.22+incompatible // indirect
 	github.com/hashicorp/consul v1.8.0 // indirect
 	google.golang.org/grpc v1.30.0 // indirect
 	honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc // indirect
